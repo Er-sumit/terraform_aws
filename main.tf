@@ -1,8 +1,6 @@
 provider "aws" {
   region = "ap-south-1"  # Change this to your preferred region
 }
-
-
 #---------------------------------------------------------------------------#
 # Commenting below code as It was written undocumented and hence lost track
 # Any new code will be taken to individual .tf files
